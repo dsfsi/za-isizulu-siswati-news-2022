@@ -1,4 +1,4 @@
-# za-isizulu-siswati-news-2022
+# IsiZulu News (articles and headlines) and Siswati News (headlines) Corpora - za-isizulu-siswati-news-2022
 
 
 [![DOI]()]()
