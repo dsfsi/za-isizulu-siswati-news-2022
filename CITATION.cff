@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Madodonga"
+  given-names: "Andani"
+- family-names: "Marivate"
+  given-names: "Vukosi"
+  orcid: "https://orcid.org/0000-0002-6731-6267"
+- family-names: "Adendorff
+  given-names: "Matthew"
+title: "# IsiZulu News (articles and headlines) and Siswati News (headlines) Corpora - za-isizulu-siswati-news-2022"
+version: 0.9.1
+date-released: 2022-10-13
+url: "https://github.com/dsfsi/za-isizulu-siswati-news-2022"
