@@ -3,13 +3,18 @@ message: "Dataset for both isiZulu news (articles and headlines) and Siswati new
 authors:
 - family-names: "Madodonga"
   given-names: "Andani"
+  affiliation: "Department of Computer Science, University of Pretoria"
 - family-names: "Marivate"
   given-names: "Vukosi"
   orcid: "https://orcid.org/0000-0002-6731-6267"
+  affiliation: "Department of Computer Science, University of Pretoria"
 - family-names: "Adendorff"
   given-names: "Matthew"
+  affiliation: "Open Cities Lab"
 title: "# IsiZulu News (articles and headlines) and Siswati News (headlines) Corpora - za-isizulu-siswati-news-2022"
-version: 0.9.1
+version: 0.9.2
 doi: 10.5281/zenodo.7193347
 date-released: 2022-10-13
 url: "https://github.com/dsfsi/za-isizulu-siswati-news-2022"
+type: data
+license: CC BY-SA 4.0
