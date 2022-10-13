@@ -11,8 +11,8 @@ authors:
 - family-names: "Adendorff"
   given-names: "Matthew"
   affiliation: "Open Cities Lab"
-title: "# IsiZulu News (articles and headlines) and Siswati News (headlines) Corpora - za-isizulu-siswati-news-2022"
-version: 0.9.4
+title: "IsiZulu News (articles and headlines) and Siswati News (headlines) Corpora - za-isizulu-siswati-news-2022"
+version: 0.9.5
 doi: 10.5281/zenodo.7193346
 date-released: 2022-10-13
 url: "https://github.com/dsfsi/za-isizulu-siswati-news-2022"
