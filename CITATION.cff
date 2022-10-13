@@ -1,12 +1,12 @@
 cff-version: 1.2.0
-message: "If you use this software, please cite it as below."
+message: "Dataset for both isiZulu news (articles and headlines) and Siswati news headlines. Process included scraping the data from internet, from Isolezwe news website http://www.isolezwe.co.za and public posts from the SABC news LigwalagwalaFM Facebook page https://www.facebook.com/ligwalagwalafm/ respectively."
 authors:
 - family-names: "Madodonga"
   given-names: "Andani"
 - family-names: "Marivate"
   given-names: "Vukosi"
   orcid: "https://orcid.org/0000-0002-6731-6267"
-- family-names: "Adendorff
+- family-names: "Adendorff"
   given-names: "Matthew"
 title: "# IsiZulu News (articles and headlines) and Siswati News (headlines) Corpora - za-isizulu-siswati-news-2022"
 version: 0.9.1
