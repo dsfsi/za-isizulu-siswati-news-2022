@@ -5,7 +5,7 @@
 
 ### About Dataset
 
-Our data collection process for both isizulu and Siswati news datasets included scraping the data from internet, from Isolezwe news website [http://www.isolezwe.co.za](http://www.isolezwe.co.za) and public posts from the SABC news LigwalagwalaFM Facebook page [https://www.facebook.com/ligwalagwalafm/](https://www.facebook.com/ligwalagwalafm/) respectively. 
+Dataset for both isiZulu news (articles and headlines) and Siswati news headlines. Process included scraping the data from internet, from Isolezwe news website http://www.isolezwe.co.za and public posts from the SABC news LigwalagwalaFM Facebook page https://www.facebook.com/ligwalagwalafm/ respectively.
 
 The obtained datasets are isiZulu news articles, isiZulu news headlines, and Siswati news headlines. 
 
