@@ -1,7 +1,7 @@
 # IsiZulu News (articles and headlines) and Siswati News (headlines) Corpora - za-isizulu-siswati-news-2022
 
 
-[![DOI]()]()
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7193347.svg)](https://doi.org/10.5281/zenodo.7193347)
 
 ### About Dataset
 
