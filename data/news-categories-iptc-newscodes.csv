@@ -1,0 +1,18 @@
+Name (en-GB),Definition (en-GB),,NewsCode-URI
+"arts, culture, entertainment and media","All forms of arts, entertainment, cultural heritage and media",,http://cv.iptc.org/newscodes/mediatopic/01000000
+"conflict, war and peace","Acts of socially or politically motivated protest or violence, military activities, geopolitical conflicts, as well as resolution efforts",,http://cv.iptc.org/newscodes/mediatopic/16000000
+"crime, law and justice","The establishment and/or statement of the rules of behaviour in society, the enforcement of these rules, breaches of the rules, the punishment of offenders and the organisations and bodies involved in these activities",,http://cv.iptc.org/newscodes/mediatopic/02000000
+"disaster, accident and emergency incident",Man made or natural event resulting in loss of life or injury to living creatures and/or damage to inanimate objects or property,,http://cv.iptc.org/newscodes/mediatopic/03000000
+"economy, business and finance","All matters concerning the planning, production and exchange of wealth.",,http://cv.iptc.org/newscodes/mediatopic/04000000
+education,All aspects of furthering knowledge of human individuals from birth to death.,,http://cv.iptc.org/newscodes/mediatopic/05000000
+environment,"All aspects of protection, damage, and condition of the ecosystem of the planet earth and its surroundings.",,http://cv.iptc.org/newscodes/mediatopic/06000000
+health,All aspects pertaining to the physical and mental welfare of living beings,,http://cv.iptc.org/newscodes/mediatopic/07000000
+human interest,"Items about individuals, groups, animals, plants or other objects with a focus on emotional facets",,http://cv.iptc.org/newscodes/mediatopic/08000000
+labour,"Social aspects, organisations, rules and conditions affecting the employment of human effort for the generation of wealth or provision of services and the economic support of the unemployed.",,http://cv.iptc.org/newscodes/mediatopic/09000000
+lifestyle and leisure,"Activities undertaken for pleasure, relaxation or recreation outside paid employment, including eating and travel.",,http://cv.iptc.org/newscodes/mediatopic/10000000
+politics,"Local, regional, national and international exercise of power, or struggle for power, and the relationships between governing bodies and states.",,http://cv.iptc.org/newscodes/mediatopic/11000000
+religion and belief,"All aspects of human existence involving theology, philosophy, ethics and spirituality.",,http://cv.iptc.org/newscodes/mediatopic/12000000
+science and technology,"All aspects pertaining to human understanding of, as well as methodical study and research of natural, formal and social sciences, such as astronomy, linguistics or economics",,http://cv.iptc.org/newscodes/mediatopic/13000000
+society,"The concerns, issues, affairs and institutions relevant to human social interactions, problems and welfare, such as poverty, human rights and family planning",,http://cv.iptc.org/newscodes/mediatopic/14000000
+sport,Competitive activity or skill that involves physical and/or mental effort and organisations and bodies involved in these activities,,http://cv.iptc.org/newscodes/mediatopic/15000000
+weather,"The study, prediction and reporting of meteorological phenomena",,http://cv.iptc.org/newscodes/mediatopic/17000000
