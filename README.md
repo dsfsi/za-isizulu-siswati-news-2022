@@ -21,8 +21,8 @@ Please see the [data-statement.md](data-statement.md) for full dataset informati
 
 ## Online Repository link
 
-* [Zenodo Data Repository]() - Link to the data repository.
-
+* Link to the DOI data repository - [Zenodo Data Repository](https://doi.org/10.5281/zenodo.7193346)
+*  
 ## Authors
 
 * **Andani Madodonga** 
