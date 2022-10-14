@@ -11,6 +11,8 @@ The obtained datasets are isiZulu news articles, isiZulu news headlines, and Sis
 
 Post data collection the datasets were then sent to annotators, and they were sent back after the annotation process. The datasets contain special characters, some English words and characters that are not ASCII encoded which must be removed prior to model training. The aim of these three datasets is to create a baseline news categorisation model for the two South African low resources languages i.e. isiZulu and Siswati. 
 
+For categorisation, we use high level [IPTC NewsCodes](https://iptc.org/standards/newscodes/) as categories. You can view the news categories here [data/news-categories-iptc-newscodes.csv](data/news-categories-iptc-newscodes.csv)
+
 The datasets were found to have class categories with very few observations, hence the class categories which have less than 35 observations were removed for isiZulu and less 6 observations for Siswati. 
 
 The dataset has both full category data as well as reduced category data.
