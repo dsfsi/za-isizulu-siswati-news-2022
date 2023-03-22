@@ -33,7 +33,7 @@ See also the list of [contributors](https://github.com/dsfsi/za-isizulu-siswati-
 
 ## Citation
 
-**Citation:** Andani Madodonga, Vukosi Marivate and Matthew Adendorff.  *zindaba-Tindzaba: Machine learning news categorisation for Long and Short Text for isiZulu and siSwati.* Journal of the Digital Humanities Association of Southern Africa. 2022 (accepted)
+**Citation:**  Madodonga, A., Marivate, V., & Adendorff, M. (2023). Izindaba-Tindzaba: Machine learning news categorisation for Long and Short Text for isiZulu and Siswati. Journal of the Digital Humanities Association of Southern Africa, 4(01). [https://doi.org/10.55492/dhasa.v4i01.4449](https://doi.org/10.55492/dhasa.v4i01.4449)
 
 ## License
 
