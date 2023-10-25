@@ -1,7 +1,8 @@
 # IsiZulu News (articles and headlines) and Siswati News (headlines) Corpora - za-isizulu-siswati-news-2022
 
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7193346.svg)](https://doi.org/10.5281/zenodo.7193346)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7193346.svg)](https://doi.org/10.5281/zenodo.7193346) [![arXiv](https://img.shields.io/badge/arXiv-2306.07426-b31b1b.svg)](https://arxiv.org/abs/2306.07426)
+
 
 ### About Dataset
 
@@ -40,5 +41,4 @@ See also the list of [contributors](https://github.com/dsfsi/za-isizulu-siswati-
 ## License
 
 Data is Licensed under CC 4.0 BY SA
-
 Code is Licences under MIT License.
